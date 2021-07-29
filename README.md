@@ -6,4 +6,4 @@
 
 Screenshots:
 
-![HomePage](https://github.com/raymxndo/Contact-App-DeLaVictoria.git/Screenshot_2021-07-29-14-31-13.png)
+![HomePage](Screenshot_2021-07-29-14-31-13.png)
