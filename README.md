@@ -10,11 +10,11 @@
 
 ### View Contact Information
 
-![View](Screenshot_2021-07-29-14-31-20)
+![View](Screenshot_2021-07-29-14-31-20.png)
 
 ### Delete Contact
 
-![Delete](Delete.png)
+![Delete](Delete.jpg)
 
 ### Edit Contact
 
