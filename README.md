@@ -2,8 +2,4 @@
 
 #### Home Page
 
-##### Output
-
-Screenshots:
-
 ![HomePage](Screenshot_2021-07-29-14-31-13.png)
